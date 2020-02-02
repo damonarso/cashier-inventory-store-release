@@ -1,0 +1,1 @@
+# cashier-inventory-store-release
